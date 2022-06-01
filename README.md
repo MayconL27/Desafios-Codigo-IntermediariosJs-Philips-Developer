@@ -17,11 +17,11 @@ Imprima a saída conforme exemplo fornecido.
 | 400 | 1 anos(s) |
 |  | 1 mes(es) |
 |  | 5 dias(s) |
-
+| * | * |
 | 800 | 2 anos(s) |
 |  | 2 mes(es) |
 |  | 10 dias(s) |
-
+| * | * |
 | 30 | 0 anos(s) |
 |  | 1 mes(es) |
 |  | 0 dias(s) |

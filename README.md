@@ -59,6 +59,7 @@ Exiba todos os valores lidos na entrada segundo a ordem apresentada acima. Cada 
 
 
 > 3 / 3 - Votação para Bobo da Corte
+ 
 Desafio
 O Império dos Artificialistas é governado por um generoso Monarca. A personalizada do Monarca é conhecida por todo o mundo, principalmente por sua forma como valoriza o bom humor de seu povo, que tem o direito a diversidade cultura. Um dos destaques fica a cargo do bobo da corte, eleito anualmente em um concurso internacional.
 

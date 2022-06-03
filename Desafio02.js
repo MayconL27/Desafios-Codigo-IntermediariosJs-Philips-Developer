@@ -7,7 +7,7 @@ let impares = [];
 
 for (let i = 0; i < totalItems ; i++) {
   let number = parseInt(gets());
-  if ( number % 2 == 0 ){
+  if ( number % 2 === 0 ){
     pares.push(number);
   }
   else {
@@ -15,11 +15,11 @@ for (let i = 0; i < totalItems ; i++) {
   }
 }
 pares.sort((a, b) => a - b );
-impares.sort((a, b) => a - b );
+impares.sort((a, b) => b - a );
 
 for(let i = 0; i < pares.length;i++){
-  print( pares )
+  print( pares[i] )
 }
 for(let i = 0; i < impares.length;i++){
-  print( impares )
+  print( impares[i] )
 }

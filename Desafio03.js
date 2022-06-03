@@ -13,10 +13,10 @@ let  primeiroInscrito = true;
 const teste  = Number(v.shift());
 
 
-for(              ) {
+for( let i = 0; i < c ; i++ ) {
   const bobo  = Number(v[i]);
 
-  if (              ) {
+  if (teste < bobo ) {
     primeiroInscrito = false;
   }
 };
